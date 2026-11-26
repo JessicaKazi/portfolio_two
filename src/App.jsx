@@ -4,7 +4,7 @@ import { ArrowDown, ArrowUpRight, Asterisk, Code2, Github, Layers3, Mail, Menu, 
 import { projects } from './data/projects'
 import ProjectModal from './components/ProjectModal'
 
-const BRAND = 'KAZI/FORM' // Temporary brand name — change this when your final name is chosen.
+const BRAND = 'Jessica/Kapila' // Temporary brand name — change this when your final name is chosen.
 const filters = ['All work', 'Graphic design', 'Development']
 
 function CustomCursor() {
